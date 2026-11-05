@@ -1,0 +1,13 @@
+
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+pydantic
+python-dotenv
+requests
+ddgs
+tavily-python
+json-repair
